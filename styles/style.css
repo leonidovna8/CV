@@ -97,7 +97,7 @@ body {
   position: relative;
 }
 .contacts-container::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 290px;
   left: 7px;
